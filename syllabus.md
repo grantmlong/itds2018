@@ -57,8 +57,8 @@ Students are expected to have:
 ### Recommended Texts and Materials
 * **Required readings and videos** will be made available to students in advance of each week's assignments. All will be availble online at no cost.
 * In addition to the required materials, students may find the following resources helpful in supplementing course materials:
- * **Recommended Text**: *Data Science from Scratch*, Joel Grus. 2nd Edition, April 2015 (O'Reilly). Available online.
- * **Recommended Text**: *Python for Data Analysis*, Wes McKinney. 2nd Edition, October 2017 (O'Reilly). Available online.
+   * **Recommended Text**: *Data Science from Scratch*, Joel Grus. 2nd Edition, April 2015 (O'Reilly). Available online.
+   * **Recommended Text**: *Python for Data Analysis*, Wes McKinney. 2nd Edition, October 2017 (O'Reilly). Available online.
 
 ### Tentative Schedule: Fall 2018
 | Week | Date | Topic |
