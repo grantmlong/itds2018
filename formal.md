@@ -13,10 +13,8 @@ This course consists of a survey of analytical tools and concepts in data scienc
 Prerequisites: Intro to Programming (CSc102/103) or equivalent and Probability and Statistics (CSc217).
 
 ##### Textbook, title, author, and year
-* Web materials, including lecture notes, related to course work.
-* Other supplemental materials:
-  * *Data Science from Scratch*, Joel Grus. 2nd Edition, April 2015 (O'Reilly). Available online.
-  * *Python for Data Analysis*, Wes McKinney. 2nd Edition, October 2017 (O'Reilly). Available online.
+* **Required Text**: *Data Science from Scratch*, Joel Grus. 2nd Edition, April 2015 (O'Reilly). Available online.
+* Additional web materials, including lecture notes, related to course work.
 
 ##### Specific goals for the course and relationship to student outcomes
 

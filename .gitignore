@@ -3,6 +3,13 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Word docs
+*.doc
+*.docx
+
+# S3 backup
+s3*
+
 # C extensions
 *.so
 
@@ -71,6 +78,7 @@ target/
 
 # Jupyter Notebook
 .ipynb_checkpoints
+.DS_Store
 
 # pyenv
 .python-version

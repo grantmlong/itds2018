@@ -55,10 +55,11 @@ Students are expected to have:
 3. Data Camp (free Python Course)
 
 ### Recommended Texts and Materials
-* **Required readings and videos** will be made available to students in advance of each week's assignments. All will be availble online at no cost.
+* **Required Text**: *Data Science from Scratch*, Joel Grus. 2nd Edition, April 2015 (O'Reilly). Available online.
+* **Additional required readings and videos** will be made available to students in advance of each week's assignments. All will be availble online at no cost.
 * In addition to the required materials, students may find the following resources helpful in supplementing course materials:
-   * **Recommended Text**: *Data Science from Scratch*, Joel Grus. 2nd Edition, April 2015 (O'Reilly). Available online.
    * **Recommended Text**: *Python for Data Analysis*, Wes McKinney. 2nd Edition, October 2017 (O'Reilly). Available online.
+   * **Recommended Text**: *Elements of Statistical Learning*, Trevor Hastie, Robert Tibshirani and Jerome Friedman. 2nd Edition, 2009 (Springer). Available free online [here|https://web.stanford.edu/~hastie/Papers/ESLII.pdf].
 
 ### Tentative Schedule: Fall 2018
 | Week | Date | Topic |
@@ -67,16 +68,16 @@ Students are expected to have:
 | 2 | September 10 | Pandas 1: Loading and Summarizing Data |
 | 3 | September 17 | Pandas 2: Cleaning Data |
 | 4 | September 24 | Pandas 3: Feature Generation |
-| 5 | October 1 | **Project Teams Formed**, Visualization and Storytelling |
+| 5 | October 1 | **Project Teams Formed.**, Visualization and Storytelling |
 | 6 | October 15 | Models I: Intro to Classification and Regression |
-| 7 | October 22 | **Midterm Exam**, Models 2: Regularization, Variance/Bias, Feature Importance |
-| 8 | October 29 | **Project Presentations Due via Email**, _TBD Guest Lecture: Deep Learning or DataVis_  |
+| 7 | October 22 | **Midterm Exam.**, Models 2: Regularization, Variance/Bias, Feature Importance |
+| 8 | October 29 | **Project Proposals Due via Email**, _TBD Guest Lecture: Deep Learning or DataVis_  |
 | 9 | November 5 | ML 1: Trees, Feature Selection |
-| 10 | November 12 | **First Project Update** ML 2: Ensemble Models, Optimization |
+| 10 | November 12 | **First Project Update.** ML 2: Ensemble Models, Optimization |
 | 11 | November 19 | ML 3: Bayes and Text: Bags of Words Methods, NLP |
-| 12 | November 26 | **Second Project Update** ML 4: Unsupervised Learning |
+| 12 | November 26 | **Second Project Update.** ML 4: Unsupervised Learning |
 | 13 | December 3 | TBD. Options: Big Data and the Cloud, Intro to Deep Learning,	Advanced Visualization, Bayesian Analysis / Scalable Data Science, Advanced NLP, Data Ethics |
-| 14 | December 10 | **Projects Due with Presentations**, Course Review, Careers in Data, Data Ethics ||
+| 14 | December 10 | **Projects Due.**, Course Review, Careers in Data, Data Ethics ||
 
 ### CUNY Policy on Academic Integrity
 **The CUNY Policy on Academic Integrity**: [Available here.](http://web.cuny.edu/academics/info-central/policies/academic-integrity.pdf) The policy, as adopted by the Board, is available to all students. Academic dishonesty is prohibited in the City University of New York and is punishable by penalties, including failing grades, suspension, and expulsion.
