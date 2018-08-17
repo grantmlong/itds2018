@@ -3,9 +3,12 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-# Word docs
+# Docs (excluding these for now - use .md for most)
 *.doc
 *.docx
+*.pdf
+
+lecture-1/
 
 # S3 backup
 s3*

@@ -40,7 +40,7 @@ Intro to Programming (CSc102/103) or equivalent and Probability and Statistics (
 | Attendance / Class Partipation | 5% |
 
 ##### Course Project
-Specifics of the course project are TBD.
+Specifics of the course project will be announced in the second week of the course.
 
 ##### Homework Grading
 Homeworks and quizzes will be graded on a 10 point scale. The lowest 2 homeworks and quizzes will be dropped from the calculation of the final grade.
@@ -64,19 +64,19 @@ Students are expected to have:
 ### Tentative Schedule: Fall 2018
 | Week | Date | Topic |
 | :---: | --- | --- |
-| 1 | August 27 | Course Intro, Where Data Comes From and Why it Matters |
-| 2 | September 10 | Pandas 1: Loading and Summarizing Data |
-| 3 | September 17 | Pandas 2: Cleaning Data |
-| 4 | September 24 | Pandas 3: Feature Generation |
-| 5 | October 1 | **Project Teams Formed.**, Visualization and Storytelling |
-| 6 | October 15 | Models I: Intro to Classification and Regression |
-| 7 | October 22 | **Midterm Exam.**, Models 2: Regularization, Variance/Bias, Feature Importance |
-| 8 | October 29 | **Project Proposals Due via Email**, _TBD Guest Lecture: Deep Learning or DataVis_  |
-| 9 | November 5 | ML 1: Trees, Feature Selection |
-| 10 | November 12 | **First Project Update.** ML 2: Ensemble Models, Optimization |
-| 11 | November 19 | ML 3: Bayes and Text: Bags of Words Methods, NLP |
-| 12 | November 26 | **Second Project Update.** ML 4: Unsupervised Learning |
-| 13 | December 3 | TBD. Options: Big Data and the Cloud, Intro to Deep Learning,	Advanced Visualization, Bayesian Analysis / Scalable Data Science, Advanced NLP, Data Ethics |
+| 1 | August 27 | Course Intro: What is Data Science and Why Does It Matter? |
+| 2 | September 10 | Data Exploration 1: Loading,  Summarizing, and Visualizing Data |
+| 3 | September 17 | Data Exploration 2: Dirty Data |
+| 4 | September 24 | Data Exploration 3: Storytelling and Statistics |
+| 5 | October 1 | **Project Teams Formed.**, Models 1: Intro to Regression and Classification |
+| 6 | October 15 | **Project Proposals Due via Email** Models 2: Regularization, Variance/Bias |
+| 7 | October 22 | **Midterm Exam.**, ML 1: Trees, Feature Selection |
+| 8 | October 29 | _TBD Guest Lecture_ |
+| 9 | November 5 | **First Project Update.** ML 2: Ensemble Models, Evaluation |
+| 10 | November 12 | ML 3: Bayes Rule and Bag of Words Methods for Text |
+| 11 | November 19 | ML 4: Unsupervised Learning |
+| 12 | November 26 | **Second Project Update.** ML 5: Bayesian Analysis and Scalable Data Science |
+| 13 | December 3 | TBD. Options: Big Data and the Cloud, Intro to Deep Learning, Recommender Systems, Advanced NLP, Data Ethics |
 | 14 | December 10 | **Projects Due.**, Course Review, Careers in Data, Data Ethics ||
 
 ### CUNY Policy on Academic Integrity
