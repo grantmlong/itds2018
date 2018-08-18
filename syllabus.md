@@ -33,10 +33,10 @@ Intro to Programming (CSc102/103) or equivalent and Probability and Statistics (
 ##### Grading
 |  | Weight |
 | --- | :---: |
-| Group Project | 35% |
+| Group Project | 40% |
 | Midterm Exam | 15% |
-| Final Exam | 25% |
-| Homework / Quizzes | 20% |
+| Final Exam | 15% |
+| Homework / Quizzes | 25% |
 | Attendance / Class Partipation | 5% |
 
 ##### Course Project
