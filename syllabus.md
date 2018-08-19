@@ -34,11 +34,10 @@ Intro to Programming (CSc102/103) or equivalent and Probability and Statistics (
 ##### Grading
 |  | Weight |
 | --- | :---: |
-| Group Project | 35% |
+| Group Project | 40% |
+| Homework / Quizzes | 30% |
 | Midterm Exam | 20% |
-| Final Exam | 20% |
-| Homework / Quizzes | 20% |
-| Attendance / Class Partipation | 5% |
+| Attendance / Class Partipation | 10% |
 
 ##### Course Project
 Specifics of the course project will be announced in the second week of the course.
@@ -78,7 +77,7 @@ Students are expected to have:
 | 11 | November 19 | ML 4: Unsupervised Learning |
 | 12 | November 26 | **Second Project Update.** ML 5: Bayesian Analysis and Scalable Data Science |
 | 13 | December 3 | TBD. Options: Big Data and the Cloud, Intro to Deep Learning, Recommender Systems, Advanced NLP, Data Ethics |
-| 14 | December 10 | **Projects Due.**, Course Review, Careers in Data, Data Ethics ||
+| 14 | December 10 | Course Review, Careers in Data, Data Ethics ||
 
 ### CUNY Policy on Academic Integrity
 **The CUNY Policy on Academic Integrity**: [Available here.](http://web.cuny.edu/academics/info-central/policies/academic-integrity.pdf) The policy, as adopted by the Board, is available to all students. Academic dishonesty is prohibited in the City University of New York and is punishable by penalties, including failing grades, suspension, and expulsion.
