@@ -9,6 +9,7 @@
 | Email | gml252@nyu.edu |
 | Office | Varies |
 | Office Hours | Varies, by appointment |
+| Course Website | [|grantmlong.com/teaching|grantmlong.com/teaching] |
 
 ##### Description
 This course consists of a survey of analytical tools and concepts in data science, with goal of equipping students with an understanding of the best practices used by professional data scientists and analysts in top companies in technology, finance, and media. The course begins with an overview of fundamentals in data handling and exploratory data analysis, followed by an introduction to core concepts in statistical modeling and machine learning, and concludes with a brief introduction advanced concepts in data science.
@@ -33,10 +34,10 @@ Intro to Programming (CSc102/103) or equivalent and Probability and Statistics (
 ##### Grading
 |  | Weight |
 | --- | :---: |
-| Group Project | 40% |
-| Midterm Exam | 15% |
-| Final Exam | 15% |
-| Homework / Quizzes | 25% |
+| Group Project | 35% |
+| Midterm Exam | 20% |
+| Final Exam | 20% |
+| Homework / Quizzes | 20% |
 | Attendance / Class Partipation | 5% |
 
 ##### Course Project
