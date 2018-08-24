@@ -9,7 +9,7 @@
 | Email | gml252@nyu.edu |
 | Office | Varies |
 | Office Hours | Varies, by appointment |
-| Course Website | [|grantmlong.com/teaching|grantmlong.com/teaching] |
+| Course Website | [grantmlong.com/teaching|https://grantmlong.com/teaching/index.html] |
 
 ##### Description
 This course consists of a survey of analytical tools and concepts in data science, with goal of equipping students with an understanding of the best practices used by professional data scientists and analysts in top companies in technology, finance, and media. The course begins with an overview of fundamentals in data handling and exploratory data analysis, followed by an introduction to core concepts in statistical modeling and machine learning, and concludes with a brief introduction advanced concepts in data science.
@@ -38,6 +38,15 @@ Intro to Programming (CSc102/103) or equivalent and Probability and Statistics (
 | Homework / Quizzes | 30% |
 | Midterm Exam | 20% |
 | Attendance / Class Partipation | 10% |
+
+ * **Project**. The bulk of the course grade will be a group project that will be due in December (exact date TBD). Students will be expected to work on the project during the second half of the class and will be required to present their progress throughout the course of the semester. Grades will be assigned on the basis of overall project quality, demonstration of core principles taught in the class, and individual contributions to the group's effort. More details on the project will discussed in the second week of class.
+ * **Assigments**. This class includes short, frequent assignments to check comprehension.  All assignments and quizzes will be graded on a 5-point scale. All quizzes will be announced in advance of class.
+  * **No late assignments accepted**. Assignments not turned in by the set deadline will be scored as 0/5. Exceptions will be granted only as mandated by CUNY policy.
+  * **Worst two assignments dropped**, includes missed assignments.
+ * **Exam**. A short midterm exam will be held in October and will focus on broad concepts the course has surveyed thus far. The format will mimic the style of questions frequently asked in interviews for data-related roles.
+ * **Participation**. Students are expected to attend class and be active participants in discussion. This includes, but is not limited to, discussing assigned readings and videos and sharing ideas during classroom exercises.
+
+
 
 ##### Course Project
 Specifics of the course project will be announced in the second week of the course.
