@@ -9,7 +9,7 @@
 | Email | gml252@nyu.edu |
 | Office | Varies |
 | Office Hours | Varies, by appointment |
-| Course Website | [grantmlong.com/teaching|https://grantmlong.com/teaching/index.html] |
+| Course Website | [grantmlong.com/teaching](https://grantmlong.com/teaching/index.html) |
 
 ##### Description
 This course consists of a survey of analytical tools and concepts in data science, with goal of equipping students with an understanding of the best practices used by professional data scientists and analysts in top companies in technology, finance, and media. The course begins with an overview of fundamentals in data handling and exploratory data analysis, followed by an introduction to core concepts in statistical modeling and machine learning, and concludes with a brief introduction advanced concepts in data science.
@@ -68,7 +68,7 @@ Students are expected to have:
 * **Additional required readings and videos** will be made available to students in advance of each week's assignments. All will be availble online at no cost.
 * In addition to the required materials, students may find the following resources helpful in supplementing course materials:
    * **Recommended Text**: *Python for Data Analysis*, Wes McKinney. 2nd Edition, October 2017 (O'Reilly). Available online.
-   * **Recommended Text**: *Elements of Statistical Learning*, Trevor Hastie, Robert Tibshirani and Jerome Friedman. 2nd Edition, 2009 (Springer). Available free online [here|https://web.stanford.edu/~hastie/Papers/ESLII.pdf].
+   * **Recommended Text**: *Elements of Statistical Learning*, Trevor Hastie, Robert Tibshirani and Jerome Friedman. 2nd Edition, 2009 (Springer). Available free online [here](https://web.stanford.edu/~hastie/Papers/ESLII.pdf).
 
 ### Tentative Schedule: Fall 2018
 | Week | Date | Topic |
