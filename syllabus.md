@@ -61,7 +61,6 @@ Projects and homeworks must be turned in on time, with exceptions and extensions
 Students are expected to have:
 1. A laptop capable of running git, bash, python 3.5 + libraries (eg. Anaconda 4.1.1)
 2. Github account (free educational account ok)
-3. Data Camp (free Python Course)
 
 ### Recommended Texts and Materials
 * **Required Text**: *Data Science from Scratch*, Joel Grus. 2nd Edition, April 2015 (O'Reilly). Available online.
