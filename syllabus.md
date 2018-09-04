@@ -73,7 +73,7 @@ Students are expected to have:
 | Week | Date | Topic |
 | :---: | --- | --- |
 | 1 | August 27 | Course Intro: What is Data Science and Why Does It Matter? |
-| 2 | September 10 | Data Exploration 1: Loading,  Summarizing, and Visualizing Data |
+| 2 | **September 5** | Data Exploration 1: Loading,  Summarizing, and Visualizing Data |
 | 3 | September 17 | Data Exploration 2: Dirty Data |
 | 4 | September 24 | Data Exploration 3: Storytelling and Statistics |
 | 5 | October 1 | **Project Teams Formed.**, Models 1: Intro to Regression and Classification |
