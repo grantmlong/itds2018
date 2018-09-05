@@ -3,4 +3,3 @@ numpy==1.14.5
 matplotlib==2.2.3
 BeautifulSoup4==4.6.3
 requests==2.19.1
-re==2.2.1
