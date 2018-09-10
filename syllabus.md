@@ -40,7 +40,7 @@ Intro to Programming (CSc102/103) or equivalent and Probability and Statistics (
 | Attendance / Class Partipation | 10% |
 
  * **Project**. The bulk of the course grade will be a group project that will be due in December (exact date TBD). Students will be expected to work on the project during the second half of the class and will be required to present their progress throughout the course of the semester. Grades will be assigned on the basis of overall project quality, demonstration of core principles taught in the class, and individual contributions to the group's effort. More details on the project will discussed in the second week of class.
- * **Assigments**. This class includes short, frequent assignments to check comprehension.  All assignments and quizzes will be graded on a 5-point scale. All quizzes will be announced in advance of class.
+ * **Assignments**. This class includes short, frequent assignments to check comprehension.  All assignments and quizzes will be graded on a 5-point scale. All quizzes will be announced in advance of class.
   * **No late assignments accepted**. Assignments not turned in by the set deadline will be scored as 0/5. Exceptions will be granted only as mandated by CUNY policy.
   * **Worst two assignments dropped**, includes missed assignments.
  * **Exam**. A short midterm exam will be held in October and will focus on broad concepts the course has surveyed thus far. The format will mimic the style of questions frequently asked in interviews for data-related roles.
@@ -79,7 +79,7 @@ Students are expected to have:
 | 5 | October 1 | **Project Teams Formed.**, Models 1: Intro to Regression and Classification |
 | 6 | October 15 | **Project Proposals Due via Email** Models 2: Regularization, Variance/Bias |
 | 7 | October 22 | **Midterm Exam.**, ML 1: Trees, Feature Selection |
-| 8 | October 29 | _TBD Guest Lecture_ |
+| 8 | October 29 | _ Guest Lecture_: Advanced Data Visualization |
 | 9 | November 5 | **First Project Update.** ML 2: Ensemble Models, Evaluation |
 | 10 | November 12 | ML 3: Bayes Rule and Bag of Words Methods for Text |
 | 11 | November 19 | ML 4: Unsupervised Learning |
