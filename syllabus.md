@@ -3,7 +3,7 @@
 | Course Title |Introduction To Data Science|
 | --- | --- |
 | Time | Mondays, 6:30pm-9:00PM|
-| Location | NAC 5/110 |
+| Location | ~~NAC 5/110~~ NAC 7106: Linux Lab |
 | Credits & Hours | 3 credits, 3 hours |
 | Instructor | Grant Long |
 | Email | gml252@nyu.edu |
