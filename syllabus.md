@@ -39,7 +39,7 @@ Intro to Programming (CSc102/103) or equivalent and Probability and Statistics (
 | Midterm Exam | 20% |
 | Attendance / Class Partipation | 10% |
 
- * **Project**. The bulk of the course grade will be a group project that will be due in December (exact date TBD). Students will be expected to work on the project during the second half of the class and will be required to present their progress throughout the course of the semester. Grades will be assigned on the basis of overall project quality, demonstration of core principles taught in the class, and individual contributions to the group's effort. More details on the project will discussed in the second week of class.
+ * **Project**. The bulk of the course grade will be a group project that will be due in December (exact date TBD). Students will be expected to work on the project during the second half of the class and will be required to present their progress throughout the course of the semester. Grades will be assigned on the basis of overall project quality, demonstration of core principles taught in the class, and individual contributions to the group's effort. More details on the project are [available here](https://grantmlong.com/teaching/project/Project-ITDS-Fall2018.pdf).
  * **Assignments**. This class includes short, frequent assignments to check comprehension.  All assignments and quizzes will be graded on a 5-point scale. All quizzes will be announced in advance of class.
   * **No late assignments accepted**. Assignments not turned in by the set deadline will be scored as 0/5. Exceptions will be granted only as mandated by CUNY policy.
   * **Worst two assignments dropped**, includes missed assignments.
