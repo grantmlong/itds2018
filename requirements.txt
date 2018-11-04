@@ -2,7 +2,9 @@ pandas==0.23.1
 numpy==1.14.5
 matplotlib==2.2.3
 BeautifulSoup4==4.6.3
-requests==2.19.1
+requests==2.20.0
 seaborn==0.9.0
 statsmodels==0.9.0
-scikit-learn==0.20.0
+scikit-learn>=0.20.0
+pydotplus
+IPython>=7.1.1
